@@ -1,5 +1,4 @@
-// Problem description
-/**
+/** Problem description **
  * 
  */
 
